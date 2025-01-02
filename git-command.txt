@@ -184,3 +184,10 @@ gittutorial-2                           guide
 gitweb                                  ancillaryinterrogators
 gitworkflows                            guide
 scalar                                  mainporcelain
+
+
+
+after maintain the git 
+in local to gitgithub
+that ancillaryinterrogators
+ok
